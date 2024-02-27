@@ -9,7 +9,7 @@
   font-style: normal;
   min-height: 100vh;
   width: 100%;
-  background-image: url('../pic/plants.jpg');
+  background-image: url('../pic/waves.jpg');
   background-position: center;
   background-size: cover;
   position: relative;
@@ -35,7 +35,7 @@ nav {
 }
 
 .nav-links ul li a {
-  color: rgb(47, 68, 11);
+  color: white;
   text-decoration: none;
   font-size: 15px;
 }
@@ -44,7 +44,7 @@ nav {
   content: '';
   width: 0%;
   height: 2px;
-  background: rgb(11, 42, 68);
+  background: rgb(47, 68, 11);
   display: block;
   margin: auto;
   transition: 0.5s;
@@ -67,6 +67,7 @@ nav {
 
 .text-box h1 {
   font-size: 28px;
+  text-align: center;
 }
 
 .text-box p {
